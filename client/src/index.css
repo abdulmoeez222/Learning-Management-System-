@@ -18,6 +18,11 @@
   --text-default--line-height: 21px;
 
   --grid-template-columns-auto: repeat(auto-fit, minmax(200px, 1fr));
+  
+  --spacing-section-height: 500px;
+  
+  --spacing-course-card: 424px;
+  --shadow-custom-card: 0px 4px 15px 0px rgba(0, 0, 0, 0.05);
 }
 
 *{
